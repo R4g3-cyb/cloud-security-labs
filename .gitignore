@@ -1,0 +1,13 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+*.swp
+*~
+
+# Archivos temporales / notas locales que no querés publicar
+*.tmp
+notas-privadas.md
